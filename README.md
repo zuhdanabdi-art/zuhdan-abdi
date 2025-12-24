@@ -1,2 +1,1 @@
-# zuhdan
-pak juunet
+
